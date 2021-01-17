@@ -1,1 +1,2 @@
 set bgp group provola_ans_2021
+set bgp group insert bgp policy
